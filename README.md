@@ -8,7 +8,7 @@
 
 ## Projects 
 ### Completed
-- [unsplash-web-scraper](https://github.com/umbertogherardi/unsplash-web-scraper): A webscraper built in Python to collect image data for undergraduate research during the Spring of 2023 as a part of Google's ExploreCSR program.
+- [unsplash-web-scraper](https://github.com/umbertogherardi/unsplash-web-scraper): A web scraper built in Python to collect image data for undergraduate research during the Spring of 2023 as a part of Google's ExploreCSR program.
 ### In Progress
 - songbird: A fullstack song recommendation app that leverages Spotify's API.
 <!--
