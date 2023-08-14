@@ -5,9 +5,8 @@
 - 🤠 Cowboy Bebop enthusiast
 
 <p align="center">
-  ![spike-spiegel](https://github.com/umbertogherardi/umbertogherardi/assets/94328060/47dfbd79-0696-4692-9e77-700f62f11d59)
+  <img src="[demo.gif](https://github.com/umbertogherardi/umbertogherardi/assets/94328060/47dfbd79-0696-4692-9e77-700f62f11d59)" alt="spike-spiegel" />
 </p>
-
 
 ### Projects 
 #### Completed
