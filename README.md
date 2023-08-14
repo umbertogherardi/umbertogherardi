@@ -1,9 +1,8 @@
 
-
-<div class="tenor-gif-embed" data-postid="7243320" data-share-method="host" data-aspect-ratio="1.8797" data-width="100%"><a href="https://tenor.com/view/food-noodles-eating-gif-7243320">Food Noodles GIF</a>from <a href="https://tenor.com/search/food-gifs">Food GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![spike-spiegel](https://github.com/umbertogherardi/umbertogherardi/assets/94328060/47dfbd79-0696-4692-9e77-700f62f11d59)
 <!--
 **umbertogherardi/umbertogherardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
