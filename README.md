@@ -1,7 +1,7 @@
-#About Me
-- Computer engineering student at the Colorado School of Mines
-- Currently learning Angular, ExpressJS, and MongoDB
-- Interested in all things software, hardware, and machine learning related
+**About Me**
+- ⛏️ Computer engineering student at the Colorado School of Mines
+- 📝 Currently learning Angular, ExpressJS, and MongoDB
+- 💻 Interested in all things software, hardware, and machine learning related
 
 ![spike-spiegel](https://github.com/umbertogherardi/umbertogherardi/assets/94328060/47dfbd79-0696-4692-9e77-700f62f11d59)
 
