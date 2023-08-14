@@ -3,10 +3,7 @@
 - 📝 Currently learning Angular, ExpressJS, and MongoDB
 - 💻 Interested in all things software, hardware, and machine learning-related
 - 🤠 Cowboy Bebop enthusiast
-
-<p align="center">
-  <img src="https://github.com/umbertogherardi/umbertogherardi/assets/94328060/47dfbd79-0696-4692-9e77-700f62f11d59" alt="spike-spiegel" />
-</p>
+  
 <hr>
 
 ### Projects 
