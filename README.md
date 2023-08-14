@@ -1,4 +1,4 @@
-###About Me
+#About Me
 - Computer engineering student at the Colorado School of Mines
 - Currently learning Angular, ExpressJS, and MongoDB
 - Interested in all things software, hardware, and machine learning related
