@@ -3,8 +3,6 @@
 - 📝 Currently learning Angular, ExpressJS, and MongoDB
 - 💻 Interested in all things software, hardware, and machine learning-related
 - 🤠 [Cowboy Bebop](https://en.wikipedia.org/wiki/Cowboy_Bebop) enthusiast
-  
-<hr>
 
 ## Projects 
 ### Completed
