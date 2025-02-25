@@ -1,6 +1,6 @@
 **About**
 - ⛏️ B.S. Computer Science + Computer Engineering @ Colorado School of Mines.
-- 🖥️ Part-time Software Engineer at [Can/Am Technologies](https://canamtechnologies.com/). 
+- 💻 Part-time Software Engineer at [Can/Am Technologies](https://canamtechnologies.com/). 
 - 📍 Previous Technology Consulting Intern at [Credera](https://www.credera.com/).
 
 **Projects**
