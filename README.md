@@ -6,4 +6,5 @@
 **Projects**
 - [allen-human-brain-atlas](https://github.com/umbertogherardi/allen-human-brain-atlas) - An exploration of the Allen Human Brain Atlas dataset using Jupyter Notebook and the abagen library.
 - [meetme-calendar](https://github.com/umbertogherardi/meetme-calendar) - A simple fullstack calendar application built as the final project for my CSCI446 Web Applications course.
+- [personal-website](https://www.umbertogherardi.com/) - My personal portfolio site, made with Next.js.
 
